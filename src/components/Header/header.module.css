@@ -1,0 +1,18 @@
+.brandName {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    color: inherit;
+}
+
+.brandName:hover {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    color: inherit;
+}
+
+.cartCount {
+    font-size: 14px !important;
+    padding: 0px 8px !important;
+}
